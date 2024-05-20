@@ -1,2 +1,2 @@
 # Quick
-project 01
+https://shamimosman12.github.io/Quick/
